@@ -1,22 +1,3 @@
 {
-  "files": [
-    {
-      "path": "Textures/fonts/JapaneseFont.png",
-      "url": "https://api.newthings-games.com/ss2/api/MB/210/data/Textures/fonts/JapaneseFont.png",
-      "size": 187721,
-      "gpu": "all"
-    },
-    {
-      "path": "Textures/fonts/RussianFont.met",
-      "url": "https://api.newthings-games.com/ss2/api/MB/210/data/Textures/fonts/RussianFont.met",
-      "size": 4279,
-      "gpu": "all"
-    },
-    {
-      "path": "Textures/fonts/RussianFont.png",
-      "url": "https://api.newthings-games.com/ss2/api/MB/210/data/Textures/fonts/RussianFont.png",
-      "size": 38743,
-      "gpu": "all"
-    }
-  ]
+  "files": []
 }
